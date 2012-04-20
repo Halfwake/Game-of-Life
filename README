@@ -1,0 +1,11 @@
+Conway's Game of Life in Lua + LÖVE (Version "0.7.2 Game Slave" only, "Piggy" is not backwards compatable.)
+
+controls
+	space: pause/unpause
+	if paused
+		r: reload
+		q: quit
+		left click: make cell
+		right click: delete cell
+
+
